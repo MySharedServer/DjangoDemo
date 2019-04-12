@@ -163,7 +163,8 @@ class GetDetailAPIView(BaseAPIView):
 
         if self.get_parameter_dic(request):
             # todo get data
-            response = self.api_response(self.data_ret, status_code=status.HTTP_200_OK)
+            queryset = self.get_queryset()
+            response = self.api_response(queryset, status_code=status.HTTP_200_OK)
         else:
             self.result_dict[KEY_RESULT] = PARAMETER_ERROR
             response = self.api_response(status_code=status.HTTP_400_BAD_REQUEST)

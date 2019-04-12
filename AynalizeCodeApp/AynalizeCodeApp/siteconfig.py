@@ -43,3 +43,5 @@ LOGGING = {
     }
 }
 
+# root path for R files
+R_FILE_ROOT_PATH = r''

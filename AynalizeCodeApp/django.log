@@ -144,3 +144,385 @@ django.template.exceptions.TemplateDoesNotExist: rest_framework/api.html
 2019-04-08 15:30:52,564 base.py[line:105] [INFO] CodeDetailView: params data:{}
 2019-04-08 15:30:52,565 base.py[line:170] [INFO] CodeDetailView: response:<Response status_code=200, "text/html; charset=utf-8">
 2019-04-08 15:30:52,640 basehttp.py[line:124] [INFO] "GET /api/aynalize/detail/ HTTP/1.1" 200 5248
+2019-04-09 18:05:32,411 base.py[line:152] [WARNING] Not Found: /
+2019-04-09 18:05:32,414 basehttp.py[line:124] [WARNING] "GET / HTTP/1.1" 404 2033
+2019-04-09 18:05:40,054 base.py[line:105] [INFO] CodeDetailView: params data:{}
+2019-04-09 18:05:40,056 base.py[line:170] [INFO] CodeDetailView: response:<Response status_code=200, "text/html; charset=utf-8">
+2019-04-09 18:05:40,168 basehttp.py[line:124] [INFO] "GET /api/aynalize/detail/ HTTP/1.1" 200 5248
+2019-04-10 10:19:42,608 basehttp.py[line:124] [WARNING] "GET /static/rest_framework/css/bootstrap.min.css.map HTTP/1.1" 404 1733
+2019-04-10 11:53:53,225 base.py[line:105] [INFO] AynalizeView: params data:{}
+2019-04-10 11:56:12,307 base.py[line:105] [INFO] AynalizeView: params data:{}
+2019-04-10 12:01:36,568 base.py[line:105] [INFO] AynalizeView: params data:{}
+2019-04-10 12:01:36,597 base.py[line:131] [INFO] AynalizeView: do aynalise result:[]
+2019-04-10 12:01:36,598 base.py[line:139] [INFO] AynalizeView: response:<Response status_code=200, "text/html; charset=utf-8">
+2019-04-10 12:01:36,823 basehttp.py[line:124] [INFO] "GET /api/aynalize/create/ HTTP/1.1" 200 5209
+2019-04-10 12:01:37,549 base.py[line:105] [INFO] AynalizeView: params data:{}
+2019-04-10 12:01:37,569 base.py[line:131] [INFO] AynalizeView: do aynalise result:[]
+2019-04-10 12:01:37,569 base.py[line:139] [INFO] AynalizeView: response:<Response status_code=200, "text/html; charset=utf-8">
+2019-04-10 12:01:37,605 basehttp.py[line:124] [INFO] "GET /api/aynalize/create/ HTTP/1.1" 200 5209
+2019-04-10 12:01:37,970 base.py[line:152] [WARNING] Not Found: /favicon.ico
+2019-04-10 12:01:37,971 basehttp.py[line:124] [WARNING] "GET /favicon.ico HTTP/1.1" 404 2084
+2019-04-10 12:02:13,708 base.py[line:105] [INFO] AynalizeView: params data:{}
+2019-04-10 12:10:21,251 base.py[line:105] [INFO] AynalizeView: params data:{}
+2019-04-10 12:10:21,265 base.py[line:131] [INFO] AynalizeView: do aynalise result:[]
+2019-04-10 12:10:21,266 base.py[line:139] [INFO] AynalizeView: response:<Response status_code=200, "text/html; charset=utf-8">
+2019-04-10 12:10:21,326 basehttp.py[line:124] [INFO] "GET /api/aynalize/create/ HTTP/1.1" 200 5209
+2019-04-10 12:12:02,769 base.py[line:105] [INFO] AynalizeView: params data:{}
+2019-04-10 13:18:18,480 base.py[line:105] [INFO] AynalizeView: params data:{}
+2019-04-10 13:18:18,501 base.py[line:131] [INFO] AynalizeView: do aynalise result:[]
+2019-04-10 13:18:18,502 base.py[line:139] [INFO] AynalizeView: response:<Response status_code=200, "text/html; charset=utf-8">
+2019-04-10 13:18:18,573 basehttp.py[line:124] [INFO] "GET /api/aynalize/create/ HTTP/1.1" 200 5209
+2019-04-10 13:20:24,481 base.py[line:105] [INFO] AynalizeView: params data:{}
+2019-04-10 13:20:24,508 base.py[line:131] [INFO] AynalizeView: do aynalise result:[]
+2019-04-10 13:20:24,509 base.py[line:139] [INFO] AynalizeView: response:<Response status_code=200, "text/html; charset=utf-8">
+2019-04-10 13:20:24,555 basehttp.py[line:124] [INFO] "GET /api/aynalize/create/ HTTP/1.1" 200 5209
+2019-04-10 13:29:04,245 base.py[line:105] [INFO] AynalizeView: params data:{}
+2019-04-10 13:29:04,277 base.py[line:131] [INFO] AynalizeView: do aynalise result:[]
+2019-04-10 13:29:04,278 base.py[line:139] [INFO] AynalizeView: response:<Response status_code=200, "text/html; charset=utf-8">
+2019-04-10 13:29:04,363 basehttp.py[line:124] [INFO] "GET /api/aynalize/create/ HTTP/1.1" 200 5209
+2019-04-10 13:29:12,291 base.py[line:105] [INFO] AynalizeView: params data:{}
+2019-04-10 13:29:12,331 base.py[line:131] [INFO] AynalizeView: do aynalise result:[]
+2019-04-10 13:29:12,332 base.py[line:139] [INFO] AynalizeView: response:<Response status_code=200, "text/html; charset=utf-8">
+2019-04-10 13:29:12,350 basehttp.py[line:124] [INFO] "GET /api/aynalize/create/ HTTP/1.1" 200 5209
+2019-04-10 14:59:14,528 base.py[line:105] [INFO] CodeDetailView: params data:{}
+2019-04-10 14:59:34,143 exception.py[line:135] [ERROR] Internal Server Error: /api/aynalize/detail/
+Traceback (most recent call last):
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\django\views\decorators\csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\django\views\generic\base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\rest_framework\views.py", line 495, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\rest_framework\views.py", line 455, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\rest_framework\views.py", line 492, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\work\python\AynalizeCodeApp\aynalize\base.py", line 166, in get
+    queryset = self.get_queryset()
+  File "C:\work\python\AynalizeCodeApp\aynalize\views.py", line 124, in get_queryset
+    query_set = FunctionInfo.objects.all().annotate(fileCnt=Count(KEY_FILE_NAME))
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\django\db\models\query.py", line 948, in annotate
+    clone.query.add_annotation(annotation, alias, is_summary=False)
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\django\db\models\sql\query.py", line 973, in add_annotation
+    summarize=is_summary)
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\django\db\models\aggregates.py", line 19, in resolve_expression
+    c = super(Aggregate, self).resolve_expression(query, allow_joins, reuse, summarize)
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\django\db\models\expressions.py", line 548, in resolve_expression
+    c.source_expressions[pos] = arg.resolve_expression(query, allow_joins, reuse, summarize, for_save)
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\django\db\models\expressions.py", line 471, in resolve_expression
+    return query.resolve_ref(self.name, allow_joins, reuse, summarize)
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\django\db\models\sql\query.py", line 1477, in resolve_ref
+    self.get_initial_alias(), reuse)
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\django\db\models\sql\query.py", line 1417, in setup_joins
+    names, opts, allow_many, fail_on_missing=True)
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\django\db\models\sql\query.py", line 1352, in names_to_path
+    "Choices are: %s" % (name, ", ".join(available)))
+django.core.exceptions.FieldError: Cannot resolve keyword 'fileName' into field. Choices are: file_name, func_body, func_line, func_name, func_param, id
+2019-04-10 14:59:36,112 basehttp.py[line:124] [ERROR] "GET /api/aynalize/detail/ HTTP/1.1" 500 134632
+2019-04-10 14:59:54,976 base.py[line:105] [INFO] CodeDetailView: params data:{}
+2019-04-10 15:00:40,927 base.py[line:105] [INFO] CodeDetailView: params data:{}
+2019-04-10 15:03:35,515 base.py[line:105] [INFO] CodeDetailView: params data:{}
+2019-04-10 15:04:37,084 views.py[line:126] [INFO] CodeDetailView: response:FunctionInfo object
+2019-04-10 15:05:06,468 views.py[line:126] [INFO] CodeDetailView: response:FunctionInfo object
+2019-04-10 15:11:19,698 base.py[line:105] [INFO] CodeDetailView: params data:{}
+2019-04-10 15:11:19,708 exception.py[line:135] [ERROR] Internal Server Error: /api/aynalize/detail/
+Traceback (most recent call last):
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\django\views\decorators\csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\django\views\generic\base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\rest_framework\views.py", line 495, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\rest_framework\views.py", line 455, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\rest_framework\views.py", line 492, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\work\python\AynalizeCodeApp\aynalize\base.py", line 166, in get
+    queryset = self.get_queryset()
+  File "C:\work\python\AynalizeCodeApp\aynalize\views.py", line 126, in get_queryset
+    logger.info("{0}: response:{1}".format(self.__class__.__name__, list(data)))
+TypeError: 'FunctionInfo' object is not iterable
+2019-04-10 15:11:19,895 basehttp.py[line:124] [ERROR] "GET /api/aynalize/detail/ HTTP/1.1" 500 93883
+2019-04-10 15:12:08,037 base.py[line:105] [INFO] CodeDetailView: params data:{}
+2019-04-10 15:13:27,117 base.py[line:105] [INFO] CodeDetailView: params data:{}
+2019-04-10 15:13:28,351 base.py[line:105] [INFO] CodeDetailView: params data:{}
+2019-04-10 15:13:39,951 views.py[line:126] [INFO] CodeDetailView: response:FunctionInfo object
+2019-04-10 15:13:48,154 views.py[line:126] [INFO] CodeDetailView: response:FunctionInfo object
+2019-04-10 15:14:07,254 views.py[line:126] [INFO] CodeDetailView: response:FunctionInfo object
+2019-04-10 15:14:12,904 views.py[line:126] [INFO] CodeDetailView: response:FunctionInfo object
+2019-04-10 15:18:17,746 base.py[line:105] [INFO] CodeDetailView: params data:{}
+2019-04-10 15:18:49,557 views.py[line:126] [INFO] CodeDetailView: response:FunctionInfo object
+2019-04-10 15:20:40,684 base.py[line:105] [INFO] CodeDetailView: params data:{}
+2019-04-10 15:24:44,492 base.py[line:105] [INFO] CodeDetailView: params data:{}
+2019-04-10 15:25:12,958 base.py[line:105] [INFO] CodeDetailView: params data:{}
+2019-04-10 15:39:39,210 views.py[line:126] [INFO] CodeDetailView: response:{'file_name': 'test file name1', 'fileCnt': 2}
+2019-04-10 15:39:40,138 views.py[line:126] [INFO] CodeDetailView: response:{'file_name': 'test file name2', 'fileCnt': 3}
+2019-04-10 21:27:34,662 base.py[line:105] [INFO] CodeDetailView: params data:{}
+2019-04-10 21:27:40,896 views.py[line:126] [INFO] CodeDetailView: response:{'file_name': 'test file name1', 'fileCnt': 2}
+2019-04-10 21:30:25,737 base.py[line:105] [INFO] CodeDetailView: params data:{}
+2019-04-10 21:34:23,476 base.py[line:105] [INFO] CodeDetailView: params data:{}
+2019-04-10 21:34:29,989 views.py[line:128] [INFO] CodeDetailView: file name:test file name1
+2019-04-10 21:35:12,968 base.py[line:105] [INFO] CodeDetailView: params data:{}
+2019-04-10 21:35:16,893 views.py[line:128] [INFO] CodeDetailView: file name:test file name1
+2019-04-10 21:35:32,632 views.py[line:130] [INFO] CodeDetailView: response:[<FunctionInfo: FunctionInfo object>, <FunctionInfo: FunctionInfo object>]
+2019-04-10 21:35:36,003 views.py[line:128] [INFO] CodeDetailView: file name:test file name2
+2019-04-10 21:35:36,601 views.py[line:130] [INFO] CodeDetailView: response:[<FunctionInfo: FunctionInfo object>, <FunctionInfo: FunctionInfo object>, <FunctionInfo: FunctionInfo object>]
+2019-04-10 21:40:12,263 base.py[line:105] [INFO] CodeDetailView: params data:{}
+2019-04-10 21:43:00,138 views.py[line:129] [INFO] CodeDetailView: file name:test file name1
+2019-04-10 21:43:11,005 base.py[line:105] [INFO] CodeDetailView: params data:{}
+2019-04-10 21:43:14,143 exception.py[line:135] [ERROR] Internal Server Error: /api/aynalize/detail/
+Traceback (most recent call last):
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\django\views\decorators\csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\django\views\generic\base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\rest_framework\views.py", line 495, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\rest_framework\views.py", line 455, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\rest_framework\views.py", line 492, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\work\python\AynalizeCodeApp\aynalize\base.py", line 166, in get
+    queryset = self.get_queryset()
+  File "C:\work\python\AynalizeCodeApp\aynalize\views.py", line 126, in get_queryset
+    a = FunctionInfo.objects.all().filer(file_name='test file name1').values(FIELD_FILE_NAME)
+AttributeError: 'QuerySet' object has no attribute 'filer'
+2019-04-10 21:43:14,338 basehttp.py[line:124] [ERROR] "GET /api/aynalize/detail/ HTTP/1.1" 500 95844
+2019-04-10 21:43:42,700 base.py[line:105] [INFO] CodeDetailView: params data:{}
+2019-04-10 21:43:44,760 base.py[line:105] [INFO] CodeDetailView: params data:{}
+2019-04-10 21:45:43,139 base.py[line:105] [INFO] CodeDetailView: params data:{}
+2019-04-10 21:46:20,132 base.py[line:105] [INFO] CodeDetailView: params data:{}
+2019-04-10 21:46:37,122 base.py[line:105] [INFO] CodeDetailView: params data:{}
+2019-04-10 21:47:51,371 base.py[line:105] [INFO] CodeDetailView: params data:{}
+2019-04-11 08:43:09,065 base.py[line:105] [INFO] CodeDetailView: params data:{}
+2019-04-11 08:43:10,551 base.py[line:105] [INFO] CodeDetailView: params data:{}
+2019-04-11 08:43:37,732 base.py[line:105] [INFO] CodeDetailView: params data:{}
+2019-04-11 08:43:40,644 exception.py[line:135] [ERROR] Internal Server Error: /api/aynalize/detail/
+Traceback (most recent call last):
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\django\views\decorators\csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\django\views\generic\base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\rest_framework\views.py", line 495, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\rest_framework\views.py", line 455, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\rest_framework\views.py", line 492, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\work\python\AynalizeCodeApp\aynalize\base.py", line 166, in get
+    queryset = self.get_queryset()
+  File "C:\work\python\AynalizeCodeApp\aynalize\views.py", line 130, in get_queryset
+    a = FunctionInfo.objects.all().filter(file_name='test file name1').values(FIELD_FILE_NAME, FIELD_FUNC_NAME,
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\django\db\models\query.py", line 787, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\django\db\models\query.py", line 805, in _filter_or_exclude
+    clone.query.add_q(Q(*args, **kwargs))
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\django\db\models\sql\query.py", line 1250, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\django\db\models\sql\query.py", line 1276, in _add_q
+    allow_joins=allow_joins, split_subq=split_subq,
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\django\db\models\sql\query.py", line 1154, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg)
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\django\db\models\sql\query.py", line 1034, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\django\db\models\sql\query.py", line 1352, in names_to_path
+    "Choices are: %s" % (name, ", ".join(available)))
+django.core.exceptions.FieldError: Cannot resolve keyword 'file_name' into field. Choices are: body, fileName, id, line, name, params
+2019-04-11 08:43:40,654 exception.py[line:135] [ERROR] Internal Server Error: /api/aynalize/detail/
+Traceback (most recent call last):
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\django\views\decorators\csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\django\views\generic\base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\rest_framework\views.py", line 495, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\rest_framework\views.py", line 455, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\rest_framework\views.py", line 492, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\work\python\AynalizeCodeApp\aynalize\base.py", line 166, in get
+    queryset = self.get_queryset()
+  File "C:\work\python\AynalizeCodeApp\aynalize\views.py", line 130, in get_queryset
+    a = FunctionInfo.objects.all().filter(file_name='test file name1').values(FIELD_FILE_NAME, FIELD_FUNC_NAME,
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\django\db\models\query.py", line 787, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\django\db\models\query.py", line 805, in _filter_or_exclude
+    clone.query.add_q(Q(*args, **kwargs))
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\django\db\models\sql\query.py", line 1250, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\django\db\models\sql\query.py", line 1276, in _add_q
+    allow_joins=allow_joins, split_subq=split_subq,
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\django\db\models\sql\query.py", line 1154, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg)
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\django\db\models\sql\query.py", line 1034, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+  File "C:\work\python\AynalizeCodeApp\venv\lib\site-packages\django\db\models\sql\query.py", line 1352, in names_to_path
+    "Choices are: %s" % (name, ", ".join(available)))
+django.core.exceptions.FieldError: Cannot resolve keyword 'file_name' into field. Choices are: body, fileName, id, line, name, params
+2019-04-11 08:43:41,434 basehttp.py[line:124] [ERROR] "GET /api/aynalize/detail/ HTTP/1.1" 500 130081
+2019-04-11 08:43:41,454 basehttp.py[line:124] [ERROR] "GET /api/aynalize/detail/ HTTP/1.1" 500 130953
+2019-04-11 08:43:41,479 basehttp.py[line:124] [ERROR] "GET /api/aynalize/detail/ HTTP/1.1" 500 59
+2019-04-11 08:43:41,526 basehttp.py[line:124] [ERROR] "GET /api/aynalize/detail/ HTTP/1.1" 500 59
+2019-04-11 08:44:11,543 base.py[line:105] [INFO] CodeDetailView: params data:{}
+2019-04-11 08:44:12,443 base.py[line:105] [INFO] CodeDetailView: params data:{}
+2019-04-11 08:47:13,320 base.py[line:105] [INFO] CodeDetailView: params data:{}
+2019-04-11 08:47:18,812 views.py[line:135] [INFO] CodeDetailView: file name:test file name1
+2019-04-11 08:47:19,160 views.py[line:138] [INFO] CodeDetailView: response:[{'fileName': 'test file name1', 'name': 'test function1', 'params': 'none', 'body': 'test body', 'line': '2'}, {'fileName': 'test file name1', 'name': 'test function2', 'params': 'none', 'body': 'test body', 'line': '20'}]
+2019-04-11 08:47:22,036 views.py[line:135] [INFO] CodeDetailView: file name:test file name2
+2019-04-11 08:47:22,614 views.py[line:138] [INFO] CodeDetailView: response:[{'fileName': 'test file name2', 'name': 'test function3', 'params': 'none', 'body': 'test body', 'line': '21'}, {'fileName': 'test file name2', 'name': 'test function4', 'params': 'none', 'body': 'test body', 'line': '22'}, {'fileName': 'test file name2', 'name': 'test function5', 'params': 'none', 'body': 'test body', 'line': '23'}]
+2019-04-11 08:47:24,205 base.py[line:171] [INFO] CodeDetailView: response:<Response status_code=200, "text/html; charset=utf-8">
+2019-04-11 08:49:32,715 basehttp.py[line:124] [INFO] "GET /api/aynalize/detail/ HTTP/1.1" 200 5248
+2019-04-11 08:58:05,252 base.py[line:105] [INFO] CodeDetailView: params data:{}
+2019-04-11 08:58:05,256 views.py[line:133] [INFO] CodeDetailView: file name:test file name1
+2019-04-11 08:58:05,258 views.py[line:139] [INFO] CodeDetailView: response:[{'fileName': 'test file name1', 'name': 'test function1', 'params': 'none', 'body': 'test body', 'line': '2'}, {'fileName': 'test file name1', 'name': 'test function2', 'params': 'none', 'body': 'test body', 'line': '20'}]
+2019-04-11 08:58:05,259 views.py[line:133] [INFO] CodeDetailView: file name:test file name2
+2019-04-11 08:58:05,260 views.py[line:139] [INFO] CodeDetailView: response:[{'fileName': 'test file name2', 'name': 'test function3', 'params': 'none', 'body': 'test body', 'line': '21'}, {'fileName': 'test file name2', 'name': 'test function4', 'params': 'none', 'body': 'test body', 'line': '22'}, {'fileName': 'test file name2', 'name': 'test function5', 'params': 'none', 'body': 'test body', 'line': '23'}]
+2019-04-11 08:58:05,260 base.py[line:171] [INFO] CodeDetailView: response:<Response status_code=200, "text/html; charset=utf-8">
+2019-04-11 08:58:05,313 basehttp.py[line:124] [INFO] "GET /api/aynalize/detail/ HTTP/1.1" 200 7439
+2019-04-11 09:00:29,756 base.py[line:105] [INFO] CodeDetailView: params data:{}
+2019-04-11 09:00:29,760 views.py[line:133] [INFO] CodeDetailView: file name:test file name1
+2019-04-11 09:00:29,763 views.py[line:139] [INFO] CodeDetailView: function detail:[{'fileName': 'test file name1', 'name': 'test function1', 'params': 'none', 'body': 'test body', 'line': '2'}, {'fileName': 'test file name1', 'name': 'test function2', 'params': 'none', 'body': 'test body', 'line': '20'}]
+2019-04-11 09:00:29,764 views.py[line:133] [INFO] CodeDetailView: file name:test file name2
+2019-04-11 09:00:29,765 views.py[line:139] [INFO] CodeDetailView: function detail:[{'fileName': 'test file name2', 'name': 'test function3', 'params': 'none', 'body': 'test body', 'line': '21'}, {'fileName': 'test file name2', 'name': 'test function4', 'params': 'none', 'body': 'test body', 'line': '22'}, {'fileName': 'test file name2', 'name': 'test function5', 'params': 'none', 'body': 'test body', 'line': '23'}]
+2019-04-11 09:00:29,765 base.py[line:171] [INFO] CodeDetailView: response:<Response status_code=200, "text/html; charset=utf-8">
+2019-04-11 09:00:29,809 basehttp.py[line:124] [INFO] "GET /api/aynalize/detail/ HTTP/1.1" 200 7251
+2019-04-11 09:19:21,941 base.py[line:105] [INFO] CodeDetailView: params data:{}
+2019-04-11 09:19:21,993 views.py[line:133] [INFO] CodeDetailView: file name:test file name1
+2019-04-11 09:19:21,998 views.py[line:139] [INFO] CodeDetailView: function detail:[{'fileName': 'test file name1', 'name': 'test function1', 'params': 'none', 'body': 'test body', 'line': '2'}, {'fileName': 'test file name1', 'name': 'test function2', 'params': 'none', 'body': 'test body', 'line': '20'}]
+2019-04-11 09:19:21,999 views.py[line:133] [INFO] CodeDetailView: file name:test file name2
+2019-04-11 09:19:22,001 views.py[line:139] [INFO] CodeDetailView: function detail:[{'fileName': 'test file name2', 'name': 'test function3', 'params': 'none', 'body': 'test body', 'line': '21'}, {'fileName': 'test file name2', 'name': 'test function4', 'params': 'none', 'body': 'test body', 'line': '22'}, {'fileName': 'test file name2', 'name': 'test function5', 'params': 'none', 'body': 'test body', 'line': '23'}]
+2019-04-11 09:19:22,003 base.py[line:171] [INFO] CodeDetailView: response:<Response status_code=200, "text/html; charset=utf-8">
+2019-04-11 09:19:22,075 basehttp.py[line:124] [INFO] "GET /api/aynalize/detail/ HTTP/1.1" 200 7251
+2019-04-11 10:00:17,135 base.py[line:105] [INFO] CodeDetailView: params data:{}
+2019-04-11 10:00:17,144 views.py[line:133] [INFO] CodeDetailView: file name:test file name1
+2019-04-11 10:00:17,148 views.py[line:139] [INFO] CodeDetailView: function count:2
+2019-04-11 10:00:17,148 views.py[line:133] [INFO] CodeDetailView: file name:test file name2
+2019-04-11 10:00:17,149 views.py[line:139] [INFO] CodeDetailView: function count:3
+2019-04-11 10:00:17,150 base.py[line:171] [INFO] CodeDetailView: response:<Response status_code=200, "text/html; charset=utf-8">
+2019-04-11 10:00:17,205 basehttp.py[line:124] [INFO] "GET /api/aynalize/detail/ HTTP/1.1" 200 7251
+2019-04-11 10:00:19,351 base.py[line:105] [INFO] CodeDetailView: params data:{}
+2019-04-11 10:00:19,358 views.py[line:133] [INFO] CodeDetailView: file name:test file name1
+2019-04-11 10:00:19,359 views.py[line:139] [INFO] CodeDetailView: function count:2
+2019-04-11 10:00:19,360 views.py[line:133] [INFO] CodeDetailView: file name:test file name2
+2019-04-11 10:00:19,360 views.py[line:139] [INFO] CodeDetailView: function count:3
+2019-04-11 10:00:19,361 base.py[line:171] [INFO] CodeDetailView: response:<Response status_code=200, "text/html; charset=utf-8">
+2019-04-11 10:00:19,383 basehttp.py[line:124] [INFO] "GET /api/aynalize/detail/ HTTP/1.1" 200 7251
+2019-04-11 10:04:43,377 base.py[line:105] [INFO] AynalizeView: params data:{}
+2019-04-11 10:04:43,410 views.py[line:118] [INFO] AynalizeView: create function record count: 2
+2019-04-11 10:04:43,410 base.py[line:131] [INFO] AynalizeView: do aynalise result:[]
+2019-04-11 10:04:43,410 base.py[line:139] [INFO] AynalizeView: response:<Response status_code=200, "text/html; charset=utf-8">
+2019-04-11 10:04:43,454 basehttp.py[line:124] [INFO] "GET /api/aynalize/create/ HTTP/1.1" 200 5209
+2019-04-11 10:06:48,784 base.py[line:105] [INFO] CodeDetailView: params data:{}
+2019-04-11 10:06:48,789 views.py[line:139] [INFO] CodeDetailView: file name:test file name1
+2019-04-11 10:06:48,791 views.py[line:145] [INFO] CodeDetailView: function count:2
+2019-04-11 10:06:48,791 base.py[line:171] [INFO] CodeDetailView: response:<Response status_code=200, "text/html; charset=utf-8">
+2019-04-11 10:06:48,814 basehttp.py[line:124] [INFO] "GET /api/aynalize/detail/ HTTP/1.1" 200 6078
+2019-04-11 13:35:50,863 base.py[line:105] [INFO] AynalizeView: params data:{}
+2019-04-11 13:35:50,889 views.py[line:132] [INFO] AynalizeView: create function record count: 4
+2019-04-11 13:35:50,889 base.py[line:131] [INFO] AynalizeView: do aynalise result:[]
+2019-04-11 13:35:50,890 base.py[line:139] [INFO] AynalizeView: response:<Response status_code=200, "text/html; charset=utf-8">
+2019-04-11 13:35:50,946 basehttp.py[line:124] [INFO] "GET /api/aynalize/create/ HTTP/1.1" 200 5209
+2019-04-11 13:36:26,387 base.py[line:105] [INFO] CodeDetailView: params data:{}
+2019-04-11 13:36:26,396 views.py[line:153] [INFO] CodeDetailView: file name:test file name1
+2019-04-11 13:36:26,400 views.py[line:159] [INFO] CodeDetailView: function count:2
+2019-04-11 13:36:26,400 views.py[line:153] [INFO] CodeDetailView: file name:test file name2
+2019-04-11 13:36:26,401 views.py[line:159] [INFO] CodeDetailView: function count:2
+2019-04-11 13:36:26,402 base.py[line:171] [INFO] CodeDetailView: response:<Response status_code=200, "text/html; charset=utf-8">
+2019-04-11 13:36:26,424 basehttp.py[line:124] [INFO] "GET /api/aynalize/detail/ HTTP/1.1" 200 6913
+2019-04-11 14:04:27,187 base.py[line:105] [INFO] CodeSearchView: params data:{}
+2019-04-11 14:04:27,195 views.py[line:191] [INFO] CodeSearchView: file name:test file name1
+2019-04-11 14:04:27,197 views.py[line:197] [INFO] CodeSearchView: function count:2
+2019-04-11 14:04:27,197 views.py[line:191] [INFO] CodeSearchView: file name:test file name2
+2019-04-11 14:04:27,199 views.py[line:197] [INFO] CodeSearchView: function count:2
+2019-04-11 14:04:27,200 base.py[line:171] [INFO] CodeSearchView: response:<Response status_code=200, "text/html; charset=utf-8">
+2019-04-11 14:04:27,268 basehttp.py[line:124] [INFO] "GET /api/aynalize/search/ HTTP/1.1" 200 6919
+2019-04-11 14:05:48,478 base.py[line:105] [INFO] CodeSearchView: params data:{'functionName': '"function1"'}
+2019-04-11 14:05:48,486 views.py[line:191] [INFO] CodeSearchView: file name:test file name1
+2019-04-11 14:05:48,488 views.py[line:197] [INFO] CodeSearchView: function count:2
+2019-04-11 14:05:48,488 views.py[line:191] [INFO] CodeSearchView: file name:test file name2
+2019-04-11 14:05:48,489 views.py[line:197] [INFO] CodeSearchView: function count:2
+2019-04-11 14:05:48,490 base.py[line:171] [INFO] CodeSearchView: response:<Response status_code=200, "text/html; charset=utf-8">
+2019-04-11 14:05:48,512 basehttp.py[line:124] [INFO] "GET /api/aynalize/search/?functionName=%22function1%22 HTTP/1.1" 200 7072
+2019-04-11 14:06:11,653 base.py[line:105] [INFO] CodeSearchView: params data:{'functionName': 'function1'}
+2019-04-11 14:06:11,657 views.py[line:191] [INFO] CodeSearchView: file name:test file name1
+2019-04-11 14:06:11,658 views.py[line:197] [INFO] CodeSearchView: function count:2
+2019-04-11 14:06:11,659 views.py[line:191] [INFO] CodeSearchView: file name:test file name2
+2019-04-11 14:06:11,660 views.py[line:197] [INFO] CodeSearchView: function count:2
+2019-04-11 14:06:11,661 base.py[line:171] [INFO] CodeSearchView: response:<Response status_code=200, "text/html; charset=utf-8">
+2019-04-11 14:06:11,686 basehttp.py[line:124] [INFO] "GET /api/aynalize/search/?functionName=function1 HTTP/1.1" 200 7042
+2019-04-11 14:14:22,565 base.py[line:105] [INFO] CodeSearchView: params data:{'name': 'test function1_1'}
+2019-04-11 14:14:22,569 views.py[line:192] [INFO] CodeSearchView: function count:1
+2019-04-11 14:14:22,569 base.py[line:171] [INFO] CodeSearchView: response:<Response status_code=200, "text/html; charset=utf-8">
+2019-04-11 14:14:22,624 basehttp.py[line:124] [INFO] "GET /api/aynalize/search/?name=test%20function1_1 HTTP/1.1" 200 5673
+2019-04-11 14:14:34,475 base.py[line:105] [INFO] CodeSearchView: params data:{'name': 'test function1_2'}
+2019-04-11 14:14:34,482 views.py[line:192] [INFO] CodeSearchView: function count:1
+2019-04-11 14:14:34,483 base.py[line:171] [INFO] CodeSearchView: response:<Response status_code=200, "text/html; charset=utf-8">
+2019-04-11 14:14:34,503 basehttp.py[line:124] [INFO] "GET /api/aynalize/search/?name=test%20function1_2 HTTP/1.1" 200 5674
+2019-04-11 14:14:44,824 base.py[line:105] [INFO] CodeSearchView: params data:{'name': 'test function2_1'}
+2019-04-11 14:14:44,831 views.py[line:192] [INFO] CodeSearchView: function count:1
+2019-04-11 14:14:44,831 base.py[line:171] [INFO] CodeSearchView: response:<Response status_code=200, "text/html; charset=utf-8">
+2019-04-11 14:14:44,857 basehttp.py[line:124] [INFO] "GET /api/aynalize/search/?name=test%20function2_1 HTTP/1.1" 200 5674
+2019-04-11 14:14:48,899 base.py[line:105] [INFO] CodeSearchView: params data:{'name': 'test function2_2'}
+2019-04-11 14:14:48,908 views.py[line:192] [INFO] CodeSearchView: function count:1
+2019-04-11 14:14:48,908 base.py[line:171] [INFO] CodeSearchView: response:<Response status_code=200, "text/html; charset=utf-8">
+2019-04-11 14:14:48,929 basehttp.py[line:124] [INFO] "GET /api/aynalize/search/?name=test%20function2_2 HTTP/1.1" 200 5674
+2019-04-11 14:14:53,813 base.py[line:105] [INFO] CodeSearchView: params data:{'name': 'test function2_3'}
+2019-04-11 14:14:53,820 views.py[line:192] [INFO] CodeSearchView: function count:0
+2019-04-11 14:14:53,821 base.py[line:171] [INFO] CodeSearchView: response:<Response status_code=200, "text/html; charset=utf-8">
+2019-04-11 14:14:53,857 basehttp.py[line:124] [INFO] "GET /api/aynalize/search/?name=test%20function2_3 HTTP/1.1" 200 5378
+2019-04-11 14:14:59,091 base.py[line:105] [INFO] CodeSearchView: params data:{'name': 'test function2_2'}
+2019-04-11 14:14:59,095 views.py[line:192] [INFO] CodeSearchView: function count:1
+2019-04-11 14:14:59,095 base.py[line:171] [INFO] CodeSearchView: response:<Response status_code=200, "text/html; charset=utf-8">
+2019-04-11 14:14:59,117 basehttp.py[line:124] [INFO] "GET /api/aynalize/search/?name=test%20function2_2 HTTP/1.1" 200 5674
+2019-04-11 15:38:12,744 base.py[line:105] [INFO] CodeSearchView: params data:{'name': 'test function2_2'}
+2019-04-11 15:38:12,767 views.py[line:192] [INFO] CodeSearchView: function count:1
+2019-04-11 15:38:12,767 base.py[line:171] [INFO] CodeSearchView: response:<Response status_code=200, "text/html; charset=utf-8">
+2019-04-11 15:38:12,797 basehttp.py[line:124] [INFO] "GET /api/aynalize/search/?name=test%20function2_2 HTTP/1.1" 200 5674
+2019-04-12 09:14:12,980 base.py[line:105] [INFO] CodeSearchView: params data:{'name': 'test function2_2'}
+2019-04-12 09:14:13,026 views.py[line:194] [INFO] CodeSearchView: function count:1
+2019-04-12 09:14:13,028 base.py[line:171] [INFO] CodeSearchView: response:<Response status_code=200, "text/html; charset=utf-8">
+2019-04-12 09:14:13,114 basehttp.py[line:124] [INFO] "GET /api/aynalize/search/?name=test%20function2_2 HTTP/1.1" 200 5674
+2019-04-12 09:14:16,138 base.py[line:105] [INFO] CodeDetailView: params data:{}
+2019-04-12 09:14:16,146 views.py[line:153] [INFO] CodeDetailView: file name:test file name1
+2019-04-12 09:14:16,148 views.py[line:160] [INFO] CodeDetailView: function count:2
+2019-04-12 09:14:16,148 views.py[line:153] [INFO] CodeDetailView: file name:test file name2
+2019-04-12 09:14:16,149 views.py[line:160] [INFO] CodeDetailView: function count:2
+2019-04-12 09:14:16,150 base.py[line:171] [INFO] CodeDetailView: response:<Response status_code=200, "text/html; charset=utf-8">
+2019-04-12 09:14:16,183 basehttp.py[line:124] [INFO] "GET /api/aynalize/detail/ HTTP/1.1" 200 6913
+2019-04-12 09:14:36,336 base.py[line:105] [INFO] CodeDetailView: params data:{}
+2019-04-12 09:14:36,343 views.py[line:153] [INFO] CodeDetailView: file name:test file name1
+2019-04-12 09:14:36,346 views.py[line:160] [INFO] CodeDetailView: function count:2
+2019-04-12 09:14:36,346 views.py[line:153] [INFO] CodeDetailView: file name:test file name2
+2019-04-12 09:14:36,348 views.py[line:160] [INFO] CodeDetailView: function count:2
+2019-04-12 09:14:36,348 base.py[line:171] [INFO] CodeDetailView: response:<Response status_code=200, "text/html; charset=utf-8">
+2019-04-12 09:14:36,379 basehttp.py[line:124] [INFO] "GET /api/aynalize/detail/ HTTP/1.1" 200 6913
