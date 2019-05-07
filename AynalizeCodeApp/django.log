@@ -526,3 +526,109 @@ django.core.exceptions.FieldError: Cannot resolve keyword 'file_name' into field
 2019-04-12 09:14:36,348 views.py[line:160] [INFO] CodeDetailView: function count:2
 2019-04-12 09:14:36,348 base.py[line:171] [INFO] CodeDetailView: response:<Response status_code=200, "text/html; charset=utf-8">
 2019-04-12 09:14:36,379 basehttp.py[line:124] [INFO] "GET /api/aynalize/detail/ HTTP/1.1" 200 6913
+2019-04-12 10:17:58,651 base.py[line:105] [INFO] CodeDetailView: params data:{}
+2019-04-12 10:17:58,680 views.py[line:153] [INFO] CodeDetailView: file name:test file name1
+2019-04-12 10:17:58,685 views.py[line:160] [INFO] CodeDetailView: function count:2
+2019-04-12 10:17:58,686 views.py[line:153] [INFO] CodeDetailView: file name:test file name2
+2019-04-12 10:17:58,687 views.py[line:160] [INFO] CodeDetailView: function count:2
+2019-04-12 10:17:58,688 base.py[line:171] [INFO] CodeDetailView: response:<Response status_code=200, "text/html; charset=utf-8">
+2019-04-12 10:17:58,858 basehttp.py[line:124] [INFO] "GET /api/aynalize/detail/ HTTP/1.1" 200 6913
+2019-04-12 10:18:02,645 base.py[line:105] [INFO] AynalizeView: params data:{}
+2019-04-12 10:18:02,694 views.py[line:132] [INFO] AynalizeView: create function record count: 4
+2019-04-12 10:18:02,696 base.py[line:131] [INFO] AynalizeView: do aynalise result:[]
+2019-04-12 10:18:02,696 base.py[line:139] [INFO] AynalizeView: response:<Response status_code=200, "text/html; charset=utf-8">
+2019-04-12 10:18:02,713 basehttp.py[line:124] [INFO] "GET /api/aynalize/create/ HTTP/1.1" 200 5209
+2019-04-12 10:18:06,703 base.py[line:105] [INFO] CodeDetailView: params data:{}
+2019-04-12 10:18:06,709 views.py[line:153] [INFO] CodeDetailView: file name:test file name1
+2019-04-12 10:18:06,710 views.py[line:160] [INFO] CodeDetailView: function count:2
+2019-04-12 10:18:06,711 views.py[line:153] [INFO] CodeDetailView: file name:test file name2
+2019-04-12 10:18:06,713 views.py[line:160] [INFO] CodeDetailView: function count:2
+2019-04-12 10:18:06,714 base.py[line:171] [INFO] CodeDetailView: response:<Response status_code=200, "text/html; charset=utf-8">
+2019-04-12 10:18:06,756 basehttp.py[line:124] [INFO] "GET /api/aynalize/detail/ HTTP/1.1" 200 6913
+2019-04-12 10:18:10,897 base.py[line:105] [INFO] CodeDetailView: params data:{}
+2019-04-12 10:18:10,903 views.py[line:153] [INFO] CodeDetailView: file name:test file name1
+2019-04-12 10:18:10,905 views.py[line:160] [INFO] CodeDetailView: function count:2
+2019-04-12 10:18:10,905 views.py[line:153] [INFO] CodeDetailView: file name:test file name2
+2019-04-12 10:18:10,910 views.py[line:160] [INFO] CodeDetailView: function count:2
+2019-04-12 10:18:10,911 base.py[line:171] [INFO] CodeDetailView: response:<Response status_code=200, "text/html; charset=utf-8">
+2019-04-12 10:18:10,942 basehttp.py[line:124] [INFO] "GET /api/aynalize/detail/ HTTP/1.1" 200 6913
+2019-04-12 10:18:40,130 base.py[line:105] [INFO] AynalizeView: params data:{}
+2019-04-12 10:18:40,179 views.py[line:132] [INFO] AynalizeView: create function record count: 4
+2019-04-12 10:18:40,180 base.py[line:131] [INFO] AynalizeView: do aynalise result:[]
+2019-04-12 10:18:40,180 base.py[line:139] [INFO] AynalizeView: response:<Response status_code=200, "text/html; charset=utf-8">
+2019-04-12 10:18:40,215 basehttp.py[line:124] [INFO] "GET /api/aynalize/create/ HTTP/1.1" 200 5209
+2019-04-12 10:18:41,151 base.py[line:152] [WARNING] Not Found: /favicon.ico
+2019-04-12 10:18:41,152 basehttp.py[line:124] [WARNING] "GET /favicon.ico HTTP/1.1" 404 2084
+2019-04-12 10:18:48,191 base.py[line:105] [INFO] CodeDetailView: params data:{}
+2019-04-12 10:18:48,235 views.py[line:153] [INFO] CodeDetailView: file name:test file name1
+2019-04-12 10:18:48,238 views.py[line:160] [INFO] CodeDetailView: function count:2
+2019-04-12 10:18:48,238 views.py[line:153] [INFO] CodeDetailView: file name:test file name2
+2019-04-12 10:18:48,241 views.py[line:160] [INFO] CodeDetailView: function count:2
+2019-04-12 10:18:48,242 base.py[line:171] [INFO] CodeDetailView: response:<Response status_code=200, "text/html; charset=utf-8">
+2019-04-12 10:18:48,300 basehttp.py[line:124] [INFO] "GET /api/aynalize/detail/ HTTP/1.1" 200 6913
+2019-04-12 10:20:41,534 base.py[line:105] [INFO] AynalizeView: params data:{}
+2019-04-12 10:20:41,569 views.py[line:132] [INFO] AynalizeView: create function record count: 4
+2019-04-12 10:20:41,570 base.py[line:131] [INFO] AynalizeView: do aynalise result:[]
+2019-04-12 10:20:41,573 base.py[line:139] [INFO] AynalizeView: response:<Response status_code=200, "text/html; charset=utf-8">
+2019-04-12 10:20:41,598 basehttp.py[line:124] [INFO] "GET /api/aynalize/create/ HTTP/1.1" 200 5209
+2019-04-12 10:20:45,624 base.py[line:105] [INFO] AynalizeView: params data:{}
+2019-04-12 10:20:45,676 views.py[line:132] [INFO] AynalizeView: create function record count: 4
+2019-04-12 10:20:45,678 base.py[line:131] [INFO] AynalizeView: do aynalise result:[]
+2019-04-12 10:20:45,679 base.py[line:139] [INFO] AynalizeView: response:<Response status_code=200, "text/html; charset=utf-8">
+2019-04-12 10:20:45,719 basehttp.py[line:124] [INFO] "GET /api/aynalize/create/ HTTP/1.1" 200 5209
+2019-04-12 10:21:03,075 base.py[line:105] [INFO] AynalizeView: params data:{}
+2019-04-12 10:21:03,129 views.py[line:132] [INFO] AynalizeView: create function record count: 4
+2019-04-12 10:21:03,130 base.py[line:131] [INFO] AynalizeView: do aynalise result:[]
+2019-04-12 10:21:03,130 base.py[line:139] [INFO] AynalizeView: response:<Response status_code=200, "text/html; charset=utf-8">
+2019-04-12 10:21:03,152 basehttp.py[line:124] [INFO] "GET /api/aynalize/create/ HTTP/1.1" 200 5209
+2019-04-12 10:21:09,063 base.py[line:105] [INFO] AynalizeView: params data:{}
+2019-04-12 10:21:09,110 views.py[line:132] [INFO] AynalizeView: create function record count: 4
+2019-04-12 10:21:09,111 base.py[line:131] [INFO] AynalizeView: do aynalise result:[]
+2019-04-12 10:21:09,112 base.py[line:139] [INFO] AynalizeView: response:<Response status_code=200, "text/html; charset=utf-8">
+2019-04-12 10:21:09,136 basehttp.py[line:124] [INFO] "GET /api/aynalize/create/ HTTP/1.1" 200 5209
+2019-04-12 10:21:18,238 base.py[line:105] [INFO] CodeDetailView: params data:{}
+2019-04-12 10:21:18,262 views.py[line:153] [INFO] CodeDetailView: file name:test file name1
+2019-04-12 10:21:18,263 views.py[line:160] [INFO] CodeDetailView: function count:2
+2019-04-12 10:21:18,264 views.py[line:153] [INFO] CodeDetailView: file name:test file name2
+2019-04-12 10:21:18,265 views.py[line:160] [INFO] CodeDetailView: function count:2
+2019-04-12 10:21:18,265 base.py[line:171] [INFO] CodeDetailView: response:<Response status_code=200, "text/html; charset=utf-8">
+2019-04-12 10:21:18,287 basehttp.py[line:124] [INFO] "GET /api/aynalize/detail/ HTTP/1.1" 200 6913
+2019-04-12 10:21:30,353 base.py[line:105] [INFO] CodeDetailView: params data:{}
+2019-04-12 10:21:30,361 views.py[line:153] [INFO] CodeDetailView: file name:test file name1
+2019-04-12 10:21:30,364 views.py[line:160] [INFO] CodeDetailView: function count:2
+2019-04-12 10:21:30,365 views.py[line:153] [INFO] CodeDetailView: file name:test file name2
+2019-04-12 10:21:30,367 views.py[line:160] [INFO] CodeDetailView: function count:2
+2019-04-12 10:21:30,367 base.py[line:171] [INFO] CodeDetailView: response:<Response status_code=200, "text/html; charset=utf-8">
+2019-04-12 10:21:30,388 basehttp.py[line:124] [INFO] "GET /api/aynalize/detail/ HTTP/1.1" 200 6913
+2019-04-12 10:21:36,739 base.py[line:105] [INFO] CodeDetailView: params data:{}
+2019-04-12 10:21:36,747 views.py[line:153] [INFO] CodeDetailView: file name:test file name1
+2019-04-12 10:21:36,751 views.py[line:160] [INFO] CodeDetailView: function count:2
+2019-04-12 10:21:36,752 views.py[line:153] [INFO] CodeDetailView: file name:test file name2
+2019-04-12 10:21:36,755 views.py[line:160] [INFO] CodeDetailView: function count:2
+2019-04-12 10:21:36,756 base.py[line:171] [INFO] CodeDetailView: response:<Response status_code=200, "text/html; charset=utf-8">
+2019-04-12 10:21:36,799 basehttp.py[line:124] [INFO] "GET /api/aynalize/detail/ HTTP/1.1" 200 6913
+2019-05-06 15:15:26,100 base.py[line:152] [WARNING] Not Found: /
+2019-05-06 15:15:26,104 basehttp.py[line:124] [WARNING] "GET / HTTP/1.1" 404 2033
+2019-05-06 15:15:26,971 base.py[line:152] [WARNING] Not Found: /favicon.ico
+2019-05-06 15:15:26,972 basehttp.py[line:124] [WARNING] "GET /favicon.ico HTTP/1.1" 404 2084
+2019-05-06 15:15:39,003 base.py[line:152] [WARNING] Not Found: /api/aynalize/
+2019-05-06 15:15:39,004 basehttp.py[line:124] [WARNING] "GET /api/aynalize/ HTTP/1.1" 404 2478
+2019-05-06 15:15:43,821 basehttp.py[line:124] [INFO] "GET /api/aynalize/detail HTTP/1.1" 301 0
+2019-05-06 15:15:43,829 base.py[line:105] [INFO] CodeDetailView: params data:{}
+2019-05-06 15:15:43,836 views.py[line:153] [INFO] CodeDetailView: file name:test file name1
+2019-05-06 15:15:43,843 views.py[line:160] [INFO] CodeDetailView: function count:2
+2019-05-06 15:15:43,843 views.py[line:153] [INFO] CodeDetailView: file name:test file name2
+2019-05-06 15:15:43,845 views.py[line:160] [INFO] CodeDetailView: function count:2
+2019-05-06 15:15:43,846 base.py[line:171] [INFO] CodeDetailView: response:<Response status_code=200, "text/html; charset=utf-8">
+2019-05-06 15:15:44,063 basehttp.py[line:124] [INFO] "GET /api/aynalize/detail/ HTTP/1.1" 200 6913
+2019-05-06 15:15:44,157 basehttp.py[line:124] [INFO] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+2019-05-06 15:15:44,163 basehttp.py[line:124] [INFO] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+2019-05-06 15:15:44,173 basehttp.py[line:124] [INFO] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+2019-05-06 15:15:44,224 basehttp.py[line:124] [INFO] "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1131
+2019-05-06 15:15:44,246 basehttp.py[line:124] [INFO] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+2019-05-06 15:15:44,265 basehttp.py[line:124] [INFO] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1735
+2019-05-06 15:15:44,275 basehttp.py[line:124] [INFO] "GET /static/rest_framework/js/jquery-3.3.1.min.js HTTP/1.1" 200 86927
+2019-05-06 15:15:44,305 basehttp.py[line:124] [INFO] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 37608
+2019-05-06 15:15:44,333 basehttp.py[line:124] [INFO] "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+2019-05-06 15:15:44,345 basehttp.py[line:124] [INFO] "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+2019-05-06 15:15:44,393 basehttp.py[line:124] [INFO] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
